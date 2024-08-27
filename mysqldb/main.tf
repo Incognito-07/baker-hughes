@@ -1,6 +1,6 @@
 resource symbolicname 'Microsoft.Storage/storageAccounts@2023-01-01' = {
-  name: 'string'
-  location: 'string'
+  name: 'Repo'
+  location: 'East-west'
   tags: {
     tagName1: 'tagValue1'
     tagName2: 'tagValue2'
